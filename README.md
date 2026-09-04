@@ -12,7 +12,7 @@
   <a href="https://github.com/Rexiumtech/global-time-atlas#quick-start"><img src="https://img.shields.io/badge/DOCS-QUICK_START-F5C518?style=for-the-badge" alt="Docs" /></a>
   <a href="https://gtasolution.rexiumtech.com"><img src="https://img.shields.io/badge/LIVE-5865F2?style=for-the-badge" alt="Live app" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-3E9B4F?style=for-the-badge" alt="License: MIT" /></a>
-  <a href="mailto:info@rexiumtech.com"><img src="https://img.shields.io/badge/CONTACT-EA580C?style=for-the-badge" alt="Contact" /></a>
+  <a href="https://rexiumtech.com/#contacto"><img src="https://img.shields.io/badge/CONTACT-EA580C?style=for-the-badge" alt="Contact" /></a>
   <a href="https://rexiumtech.com"><img src="https://img.shields.io/badge/BUILT_BY-REXIUMTECH-A855F7?style=for-the-badge" alt="Built by Rexiumtech" /></a>
 </p>
 
