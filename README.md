@@ -5,9 +5,9 @@
 # Global Time Atlas
 
 <p align="center">
-  <a href="https://rexiumtech.com"><img src="https://img.shields.io/badge/WEBSITE-REXIUMTECH.COM-F5C518?style=for-the-badge" alt="Website" /></a>
+  <a href="https://gtasolution.rexiumtech.com"><img src="https://img.shields.io/badge/LIVE-GTASOLUTION.REXIUMTECH.COM-F5C518?style=for-the-badge" alt="Live app" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-3E9B4F?style=for-the-badge" alt="License: MIT" /></a>
-  <a href="https://github.com/Rexiumtech"><img src="https://img.shields.io/badge/BUILT_BY-REXIUMTECH-A855F7?style=for-the-badge" alt="Built by Rexiumtech" /></a>
+  <a href="https://rexiumtech.com"><img src="https://img.shields.io/badge/BUILT_BY-REXIUMTECH-A855F7?style=for-the-badge" alt="Built by Rexiumtech" /></a>
 </p>
 
 A bilingual (English / Spanish), daylight-saving-aware timezone converter. Enter a date and time, pick where that moment starts, and see it translated into three independent destination views — plus live local time for 10 world cities, a searchable directory of 956 major cities, and all 195 national capitals.
