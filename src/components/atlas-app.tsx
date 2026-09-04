@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { CalendarClock, Globe2 } from "lucide-react";
+import { CalendarClock } from "lucide-react";
 import cityCatalog from "@/data/cities.json";
 
 type CityRecord = {
@@ -20,6 +20,9 @@ type Language = "en" | "es";
 
 type Copy = {
   language: string;
+  heroEyebrow: string;
+  heroHeading: string;
+  heroHeadingAccent: string;
   date: string;
   time: string;
   starting: string;
@@ -55,6 +58,7 @@ type Copy = {
 };
 
 type SavedState = {
+  language?: string;
   date?: string;
   time?: string;
   zone?: string;
@@ -107,6 +111,9 @@ const capitals = catalog.filter((city) => city.capital);
 const copy: Record<Language, Copy> = {
   en: {
     language: "ES",
+    heroEyebrow: "Timezone to timezone",
+    heroHeading: "Know the",
+    heroHeadingAccent: "local time.",
     date: "Date",
     time: "Time",
     starting: "Starting timezone/city",
@@ -142,6 +149,9 @@ const copy: Record<Language, Copy> = {
   },
   es: {
     language: "EN",
+    heroEyebrow: "De zona horaria a zona horaria",
+    heroHeading: "Conoce la",
+    heroHeadingAccent: "hora local.",
     date: "Fecha",
     time: "Hora",
     starting: "Zona horaria/ciudad inicial",
@@ -385,6 +395,7 @@ export default function AtlasApp() {
       const saved = JSON.parse(localStorage.getItem("utc-atlas-conversion") || "null") as SavedState;
       const params = new URLSearchParams(window.location.search);
       if (saved) {
+        if (saved.language === "es" || saved.language === "en") setLanguage(saved.language);
         if (params.get("date") || saved.date) setConversionDate(params.get("date") || saved.date!);
         if (params.get("time") || saved.time) setConversionTime(params.get("time") || saved.time!);
         if (params.get("from") || saved.zone) setSourceZone(params.get("from") || saved.zone!);
@@ -411,9 +422,13 @@ export default function AtlasApp() {
     if (!hydrated) return;
     localStorage.setItem(
       "utc-atlas-conversion",
-      JSON.stringify({ date: conversionDate, time: conversionTime, zone: sourceZone, city: sourceCity, targets: targetZones, targetCities })
+      JSON.stringify({ language, date: conversionDate, time: conversionTime, zone: sourceZone, city: sourceCity, targets: targetZones, targetCities })
     );
-  }, [conversionDate, conversionTime, sourceZone, sourceCity, targetZones, targetCities, hydrated]);
+  }, [language, conversionDate, conversionTime, sourceZone, sourceCity, targetZones, targetCities, hydrated]);
+
+  useEffect(() => {
+    document.documentElement.lang = language;
+  }, [language]);
 
   const visibleMajorCities = majorCities.filter((city) =>
     normalizeSearch(`${city.city} ${city.country} ${city.countryCode} ${city.zone}`).includes(normalizeSearch(cityQuery))
@@ -445,9 +460,7 @@ export default function AtlasApp() {
     <main className="app-shell">
       <header className="topbar">
         <div className="wordmark">
-          <span className="wordmark-mark">
-            <Globe2 size={17} strokeWidth={1.8} />
-          </span>{" "}
+          <img src="/logo.svg" alt="" className="wordmark-logo" />
           GLOBAL TIME ATLAS
         </div>
         <div className="topbar-right">
@@ -465,10 +478,10 @@ export default function AtlasApp() {
 
       <section className="hero">
         <div className="eyebrow">
-          <span className="eyebrow-line" /> Timezone to timezone
+          <span className="eyebrow-line" /> {text.heroEyebrow}
         </div>
         <h1>
-          Know the <em>local time.</em>
+          {text.heroHeading} <em>{text.heroHeadingAccent}</em>
         </h1>
         <p className="hero-copy">{text.heroCopy}</p>
         <div className="hero-meta">
