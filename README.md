@@ -1,7 +1,16 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rexiumtech/.github/main/logo.png" width="72" alt="Rexiumtech" />
+</p>
+
 # Global Time Atlas
 
-[![CI](https://github.com/rexiumtech/global-time-atlas/actions/workflows/ci.yml/badge.svg)](https://github.com/rexiumtech/global-time-atlas/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-ea795d.svg)](LICENSE)
+<p align="center">
+  <a href="https://github.com/Rexiumtech/global-time-atlas/actions/workflows/ci.yml"><img src="https://github.com/Rexiumtech/global-time-atlas/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-ea795d.svg" alt="License: MIT" /></a>
+  <img src="https://img.shields.io/badge/Next.js-16-black?logo=next.js" alt="Next.js 16" />
+  <img src="https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white" alt="TypeScript strict" />
+  <a href="https://github.com/Rexiumtech/global-time-atlas/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome" /></a>
+</p>
 
 A bilingual (English / Spanish), daylight-saving-aware timezone converter. Enter a date and time, pick where that moment starts, and see it translated into three independent destination views — plus live local time for 10 world cities, a searchable directory of 956 major cities, and all 195 national capitals.
 
