@@ -5,11 +5,16 @@
 # Global Time Atlas
 
 <p align="center">
-  <a href="https://github.com/Rexiumtech/global-time-atlas/actions/workflows/ci.yml"><img src="https://github.com/Rexiumtech/global-time-atlas/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-ea795d.svg" alt="License: MIT" /></a>
-  <img src="https://img.shields.io/badge/Next.js-16-black?logo=next.js" alt="Next.js 16" />
-  <img src="https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white" alt="TypeScript strict" />
-  <a href="https://github.com/Rexiumtech/global-time-atlas/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome" /></a>
+  <a href="https://github.com/Rexiumtech/global-time-atlas/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/Rexiumtech/global-time-atlas/ci.yml?style=for-the-badge&label=CI" alt="CI" /></a>
+  <a href="https://rexiumtech.com"><img src="https://img.shields.io/badge/WEBSITE-REXIUMTECH.COM-F5C518?style=for-the-badge" alt="Website" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-3E9B4F?style=for-the-badge" alt="License: MIT" /></a>
+  <a href="https://github.com/Rexiumtech"><img src="https://img.shields.io/badge/BUILT_BY-REXIUMTECH-A855F7?style=for-the-badge" alt="Built by Rexiumtech" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LANG-ENGLISH-2563EB?style=for-the-badge" alt="English" />
+  <img src="https://img.shields.io/badge/LANG-ESPA%C3%91OL-EA580C?style=for-the-badge" alt="Español" />
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRS-WELCOME-3E9B4F?style=for-the-badge" alt="PRs welcome" /></a>
 </p>
 
 A bilingual (English / Spanish), daylight-saving-aware timezone converter. Enter a date and time, pick where that moment starts, and see it translated into three independent destination views — plus live local time for 10 world cities, a searchable directory of 956 major cities, and all 195 national capitals.
