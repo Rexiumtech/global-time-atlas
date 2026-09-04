@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Global Time Atlas — a Rexiumtech open-source tool" width="100%" />
+  <img src="assets/banner.svg" alt="Global Time Atlas — a Rexiumtech open-source tool" width="100%" />
 </p>
 
 # Global Time Atlas
