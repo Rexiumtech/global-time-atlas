@@ -1,0 +1,8606 @@
+[
+  {
+    "city": "Kabul",
+    "country": "Afghanistan",
+    "countryCode": "AF",
+    "zone": "Asia/Kabul",
+    "population": 3160266,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Kandahar",
+    "country": "Afghanistan",
+    "countryCode": "AF",
+    "zone": "Asia/Kabul",
+    "population": 613871,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tirana",
+    "country": "Albania",
+    "countryCode": "AL",
+    "zone": "Europe/Tirane",
+    "population": 658318,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Alger",
+    "country": "Algeria",
+    "countryCode": "DZ",
+    "zone": "Africa/Algiers",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Algiers",
+    "country": "Algeria",
+    "countryCode": "DZ",
+    "zone": "Africa/Algiers",
+    "population": 2665831.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Constantine",
+    "country": "Algeria",
+    "countryCode": "DZ",
+    "zone": "Africa/Algiers",
+    "population": 527638,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Oran",
+    "country": "Algeria",
+    "countryCode": "DZ",
+    "zone": "Africa/Algiers",
+    "population": 721992,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Andorra la Vella",
+    "country": "Andorra",
+    "countryCode": "AD",
+    "zone": "Europe/Andorra",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Huambo",
+    "country": "Angola",
+    "countryCode": "AO",
+    "zone": "Africa/Luanda",
+    "population": 986000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Luanda",
+    "country": "Angola",
+    "countryCode": "AO",
+    "zone": "Africa/Luanda",
+    "population": 3562086,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Saint John's",
+    "country": "Antigua and Barbuda",
+    "countryCode": "AG",
+    "zone": "America/Antigua",
+    "population": 29862.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "zone": "America/Argentina/Buenos_Aires",
+    "population": 11862073,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Córdoba",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "zone": "America/Argentina/Cordoba",
+    "population": 1374467.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Mar del Plata",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "zone": "America/Argentina/Buenos_Aires",
+    "population": 554916,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Mendoza",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "zone": "America/Argentina/Mendoza",
+    "population": 827815,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Rosario",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "zone": "America/Argentina/Cordoba",
+    "population": 1094784.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tucumán",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "zone": "America/Argentina/Tucuman",
+    "population": 678803.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yerevan",
+    "country": "Armenia",
+    "countryCode": "AM",
+    "zone": "Asia/Yerevan",
+    "population": 1097742.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Adelaide",
+    "country": "Australia",
+    "countryCode": "AU",
+    "zone": "Australia/Adelaide",
+    "population": 990677,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Brisbane",
+    "country": "Australia",
+    "countryCode": "AU",
+    "zone": "Australia/Brisbane",
+    "population": 1393176.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Canberra",
+    "country": "Australia",
+    "countryCode": "AU",
+    "zone": "Australia/Sydney",
+    "population": 280866,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Melbourne",
+    "country": "Australia",
+    "countryCode": "AU",
+    "zone": "Australia/Melbourne",
+    "population": 4936000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Newcastle",
+    "country": "Australia",
+    "countryCode": "AU",
+    "zone": "Australia/Sydney",
+    "population": 816285.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Perth",
+    "country": "Australia",
+    "countryCode": "AU",
+    "zone": "Australia/Perth",
+    "population": 1206108,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Sydney",
+    "country": "Australia",
+    "countryCode": "AU",
+    "zone": "Australia/Sydney",
+    "population": 5230330,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Vienna",
+    "country": "Austria",
+    "countryCode": "AT",
+    "zone": "Europe/Vienna",
+    "population": 2065500,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Wien",
+    "country": "Austria",
+    "countryCode": "AT",
+    "zone": "Europe/Vienna",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "countryCode": "AZ",
+    "zone": "Asia/Baku",
+    "population": 2007150,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Nassau",
+    "country": "Bahamas",
+    "countryCode": "BS",
+    "zone": "America/Nassau",
+    "population": 194453,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "al-Manama",
+    "country": "Bahrain",
+    "countryCode": "BH",
+    "zone": "Asia/Qatar",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Chittagong",
+    "country": "Bangladesh",
+    "countryCode": "BD",
+    "zone": "Asia/Dhaka",
+    "population": 4224611,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "countryCode": "BD",
+    "zone": "Asia/Dhaka",
+    "population": 9899167,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Khulna",
+    "country": "Bangladesh",
+    "countryCode": "BD",
+    "zone": "Asia/Dhaka",
+    "population": 1447669.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Rajshahi",
+    "country": "Bangladesh",
+    "countryCode": "BD",
+    "zone": "Asia/Dhaka",
+    "population": 755066.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bridgetown",
+    "country": "Barbados",
+    "countryCode": "BB",
+    "zone": "America/Barbados",
+    "population": 143865,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Minsk",
+    "country": "Belarus",
+    "countryCode": "BY",
+    "zone": "Europe/Minsk",
+    "population": 1691069,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Antwerpen",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "zone": "Europe/Brussels",
+    "population": 689902.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Brussels",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "zone": "Europe/Brussels",
+    "population": 1381011,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bruxelles [Brussel]",
+    "country": "Belgium",
+    "countryCode": "BE",
+    "zone": "Europe/Brussels",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Belmopan",
+    "country": "Belize",
+    "countryCode": "BZ",
+    "zone": "America/Belize",
+    "population": 14300.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Cotonou",
+    "country": "Benin",
+    "countryCode": "BJ",
+    "zone": "Africa/Porto-Novo",
+    "population": 726292,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Porto-Novo",
+    "country": "Benin",
+    "countryCode": "BJ",
+    "zone": "Africa/Porto-Novo",
+    "population": 267084,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Thimphu",
+    "country": "Bhutan",
+    "countryCode": "BT",
+    "zone": "Asia/Thimphu",
+    "population": 88930.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Cochabamba",
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "zone": "America/La_Paz",
+    "population": 804138,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "La Paz",
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "zone": "America/La_Paz",
+    "population": 1201399.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Santa Cruz",
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "zone": "America/La_Paz",
+    "population": 1859530.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "countryCode": "BA",
+    "zone": "Europe/Sarajevo",
+    "population": 662816.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Gaborone",
+    "country": "Botswana",
+    "countryCode": "BW",
+    "zone": "Africa/Gaborone",
+    "population": 183827,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Aracaju",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Maceio",
+    "population": 587765.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Belem",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Belem",
+    "population": 1787368.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Belo Horizonte",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 3974112,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Brasília",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 3139979.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Campinas",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 1911277,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Campo Grande",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Campo_Grande",
+    "population": 687723,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Cuiaba",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Cuiaba",
+    "population": 603143.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Curitiba",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 2291430,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Duque de Caxias",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 842890,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Florianopolis",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 568783,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Fortaleza",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Fortaleza",
+    "population": 2958717.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Goiania",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 1596597.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jaboatao",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Recife",
+    "population": 681214,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Joao Pessoa",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Fortaleza",
+    "population": 803441.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Joinville",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 710737.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Maceio",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Maceio",
+    "population": 1000215.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Manaus",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Manaus",
+    "population": 1636622,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Natal",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Manaus",
+    "population": 980588,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Natal",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Fortaleza",
+    "population": 925521.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Niteroi",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 993920,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Nova Iguacu",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 844583,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Novo Hamburgo",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 557017,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Olinda",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Recife",
+    "population": 659554,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Porto Alegre",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 2644870.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Recife",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Recife",
+    "population": 2564549,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ribeirao Preto",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 520774,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 6879087.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Salvador",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Bahia",
+    "population": 3081422.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Santo Andre",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 662373,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Santos",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 1060201.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Sao Jose dos Campos",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 695322.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "São Luís",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Fortaleza",
+    "population": 524692.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Sao Paulo",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 14433147.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Sorocaba",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 561071.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Teresina",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Fortaleza",
+    "population": 746860.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Vila Velha",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Belem",
+    "population": 742413.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Vila Velha",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 742413.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Vitória",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "zone": "America/Sao_Paulo",
+    "population": 1008328,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bandar Seri Begawan",
+    "country": "Brunei",
+    "countryCode": "BN",
+    "zone": "Asia/Brunei",
+    "population": 218250,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "countryCode": "BG",
+    "zone": "Europe/Sofia",
+    "population": 1029913.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Ouagadougou",
+    "country": "Burkina Faso",
+    "countryCode": "BF",
+    "zone": "Africa/Ouagadougou",
+    "population": 992228.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Bujumbura",
+    "country": "Burundi",
+    "countryCode": "BI",
+    "zone": "Africa/Bujumbura",
+    "population": 331700,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Phnom Penh",
+    "country": "Cambodia",
+    "countryCode": "KH",
+    "zone": "Asia/Phnom_Penh",
+    "population": 1466000,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Douala",
+    "country": "Cameroon",
+    "countryCode": "CM",
+    "zone": "Africa/Douala",
+    "population": 1622041,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yaounde",
+    "country": "Cameroon",
+    "countryCode": "CM",
+    "zone": "Africa/Douala",
+    "population": 1335793.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Calgary",
+    "country": "Canada",
+    "countryCode": "CA",
+    "zone": "America/Edmonton",
+    "population": 1012661,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Edmonton",
+    "country": "Canada",
+    "countryCode": "CA",
+    "zone": "America/Edmonton",
+    "population": 885195.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hamilton",
+    "country": "Canada",
+    "countryCode": "CA",
+    "zone": "America/Toronto",
+    "population": 620501,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Montréal",
+    "country": "Canada",
+    "countryCode": "CA",
+    "zone": "America/Montreal",
+    "population": 3017278,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ottawa",
+    "country": "Canada",
+    "countryCode": "CA",
+    "zone": "America/Toronto",
+    "population": 978564.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Québec",
+    "country": "Canada",
+    "countryCode": "CA",
+    "zone": "America/Montreal",
+    "population": 576386,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Toronto",
+    "country": "Canada",
+    "countryCode": "CA",
+    "zone": "America/Toronto",
+    "population": 4573710.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Vancouver",
+    "country": "Canada",
+    "countryCode": "CA",
+    "zone": "America/Vancouver",
+    "population": 1458415,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Winnipeg",
+    "country": "Canada",
+    "countryCode": "CA",
+    "zone": "America/Winnipeg",
+    "population": 603688,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Praia",
+    "country": "Cape Verde",
+    "countryCode": "CV",
+    "zone": "Atlantic/Cape_Verde",
+    "population": 101111.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Bangui",
+    "country": "Central African Republic",
+    "countryCode": "CF",
+    "zone": "Africa/Bangui",
+    "population": 727348,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "N'Djamena",
+    "country": "Chad",
+    "countryCode": "TD",
+    "zone": "Africa/Ndjamena",
+    "population": 835193.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Concepcion",
+    "country": "Chile",
+    "countryCode": "CL",
+    "zone": "America/Santiago",
+    "population": 550864,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Santiago",
+    "country": "Chile",
+    "countryCode": "CL",
+    "zone": "America/Santiago",
+    "population": 2883305.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Santiago de Chile",
+    "country": "Chile",
+    "countryCode": "CL",
+    "zone": "America/Coyhaique",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Ankang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 1025000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Anshan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1419137.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Anshun",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 600468,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Anyang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 834064.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Baoding",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1051326,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Baoji",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 800000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Baoshan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 925000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Baotou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 1229664.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Beihai",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 567289,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Beijing",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 9293300.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bengbu",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 735324,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Benxi",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 923933,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Cangzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 527681,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Changchun",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Harbin",
+    "population": 2860210.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Changde",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 993390,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Changsha",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 2338969,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Changzhi",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 706000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Changzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1138009,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Chengdu",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 4036718.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Chifeng",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 811827,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Chongqing",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 5214014,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Dalian",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 2601153.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Dandong",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 750986.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Daqing",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Harbin",
+    "population": 948244,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Datong",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1462839,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Dongguan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 4528000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Foshan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 785174,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Fushun",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1435323,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Fuxin",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 729525,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Fuyang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 771000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Fuzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1892860,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ganzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1216134.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Guangzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 5990912.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Guilin",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 818176,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Guiyang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 2416816.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Haikou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 1606808.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Handan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1494659,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hangzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 2442564.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Harbin",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Harbin",
+    "population": 3425441.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hechi",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 3275189.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hefei",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1711952,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hegang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Harbin",
+    "population": 657833.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hengyang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 887801,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Heze",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 796301,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hohhot",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 1250238.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Huaibei",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 908019.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Huainan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1239327.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Huaiyin",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 909615,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Huangshi",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 688090,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Huzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 694660,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jiamusi",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Harbin",
+    "population": 784774.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jiangmen",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 532419,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jianmen",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 937875,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jiaozuo",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 687270,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jiaxing",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 727050.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jilin",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Harbin",
+    "population": 2138988.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jinan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 2433633,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jincheng",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 520000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jinhua",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 617529,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jining",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 818163.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jinxi",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1369623.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jinzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 780134.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jiujiang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 545616,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jixi",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Harbin",
+    "population": 684379.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kaifeng",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 872000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kunming",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 1977337,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Langfang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 694465.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Lanzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 2282609,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Leshan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 655738.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Lianyungang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 715600,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Liaoyang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 740945,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Linfen",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 533283,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Lingyuan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 806000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Linyi",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1176334.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Liuzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 1436030.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Luan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1408227.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Luoyang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1552790.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Lupanshui",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 886256,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Luzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 1537000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Maanshan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1000121,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Maoming",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Urumqi",
+    "population": 1217715,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Mianyang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 830068,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Mudangiang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Harbin",
+    "population": 954957.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Nanchang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 2110675.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Nanchong",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 2174000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Nanjing",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 3383005,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Nanning",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 1485394,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Nantong",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 806625.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Nanyang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1097766,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Neijiang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 1006427,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ningbo",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1321433.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Peking",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Pingdingshan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 849000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Pingxiang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 666561.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Puyang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 666322,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Qingdao",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 2254122.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Qingyuan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 706717,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Qinhuangdao",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 881359,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Qiqihar",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Harbin",
+    "population": 1261682,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Quanzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 823571.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Rizhao",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 555693.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Shanghai",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 14797756,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Shangqiu",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 967109,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Shangrao",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 922421.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Shantou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1467486.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Shaoguan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 674507.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Shaoxing",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 599141.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Shashi",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 509390,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Shenyeng",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 4149596,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Shenzhen",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 4291796,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Shihezi",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Urumqi",
+    "population": 572977,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Shijianzhuang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 2204737,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Shiyan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 653823.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Shuangyashan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Harbin",
+    "population": 500000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Shuyang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1770000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Siping",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Harbin",
+    "population": 528811,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Suining",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 1425000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Suzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1964000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Taian",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1629000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Taiyuan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 2817737.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Taizhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 612356,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tangshan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1737974.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tianjin",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 5473103.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tianshui",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 649883.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tongliao",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 572555,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Urumqi",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Urumqi",
+    "population": 1829612.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Wanzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 1680000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Weifang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 973866,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Wenzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1607836,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Wuhan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 5713603,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Wuhu",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 658762,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Wuxi",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1428823.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Xiamen",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1548668.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Xian",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 3617406,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Xiangfan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 765978,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Xiangtai",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 611739,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Xiangtan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 2183454,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Xiantao",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 897703,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Xianyang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 1126000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Xingyi",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 539536,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Xining",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 907765.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Xinxiang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 823300.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Xinyang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1411944,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Xinyi",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 962656,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Xinyu",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 505240,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Xuanzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 866000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Xuzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1645096.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yancheng",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 839000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yangjiang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 751181.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yangquan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 851801.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yangzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 539715,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yantai",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1417666,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yibin",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 572055.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yichang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 675862.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yichun",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 982000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yinchuan",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 657614,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yingkow",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 693079.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yiyang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 777304,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yongzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 700180.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yuci",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 537964.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yueyang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 826000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yulin",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 637742.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Zaozhuang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1164332.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Zhangjiakou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 802820.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Zhangzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 2434799.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Zhanjiang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Urumqi",
+    "population": 1113895,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Zhanyi",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 652604,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Zhengzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 2325062.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Zhenjiang",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 743276,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Zhucheng",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 881963.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Zhuhai",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1023000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Zhuzhou",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 894679,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Zibo",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Shanghai",
+    "population": 1865385,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Zigong",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 897480.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Zunyi",
+    "country": "China",
+    "countryCode": "CN",
+    "zone": "Asia/Chongqing",
+    "population": 657646,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Barranquilla",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "zone": "America/Bogota",
+    "population": 1521245.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bogota",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "zone": "America/Bogota",
+    "population": 7052830.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Bucaramanga",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "zone": "America/Bogota",
+    "population": 790410,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Cali",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "zone": "America/Bogota",
+    "population": 2216418,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Cartagena",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "zone": "America/Bogota",
+    "population": 887000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Cucuta",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "zone": "America/Bogota",
+    "population": 721772,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Medellin",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "zone": "America/Bogota",
+    "population": 2648489.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Pereira",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "zone": "America/Bogota",
+    "population": 504434,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Soledad",
+    "country": "Colombia",
+    "countryCode": "CO",
+    "zone": "America/Bogota",
+    "population": 520704,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Moroni",
+    "country": "Comoros",
+    "countryCode": "KM",
+    "zone": "Indian/Comoro",
+    "population": 85785,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Pointe-Noire",
+    "country": "Congo (Brazzaville)",
+    "countryCode": "CG",
+    "zone": "Africa/Brazzaville",
+    "population": 602440.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kananga",
+    "country": "Congo (Kinshasa)",
+    "countryCode": "CD",
+    "zone": "Africa/Lubumbashi",
+    "population": 614273,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kisangani",
+    "country": "Congo (Kinshasa)",
+    "countryCode": "CD",
+    "zone": "Africa/Lubumbashi",
+    "population": 558814,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Lubumbashi",
+    "country": "Congo (Kinshasa)",
+    "countryCode": "CD",
+    "zone": "Africa/Lubumbashi",
+    "population": 1114317,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Mbuji-Mayi",
+    "country": "Congo (Kinshasa)",
+    "countryCode": "CD",
+    "zone": "Africa/Lubumbashi",
+    "population": 1084880.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "San José",
+    "country": "Costa Rica",
+    "countryCode": "CR",
+    "zone": "America/Costa_Rica",
+    "population": 642862,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Zagreb",
+    "country": "Croatia",
+    "countryCode": "HR",
+    "zone": "Europe/Zagreb",
+    "population": 710746,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Havana",
+    "country": "Cuba",
+    "countryCode": "CU",
+    "zone": "America/Havana",
+    "population": 2082458.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "La Habana",
+    "country": "Cuba",
+    "countryCode": "CU",
+    "zone": "America/Havana",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Santiago de Cuba",
+    "country": "Cuba",
+    "countryCode": "CU",
+    "zone": "America/Havana",
+    "population": 500964,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "countryCode": "CY",
+    "zone": "Asia/Nicosia",
+    "population": 212376,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Prague",
+    "country": "Czechia",
+    "countryCode": "CZ",
+    "zone": "Europe/Prague",
+    "population": 582043.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "zone": "Europe/Copenhagen",
+    "population": 602481,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "København",
+    "country": "Denmark",
+    "countryCode": "DK",
+    "zone": "Europe/Copenhagen",
+    "population": 1085000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Djibouti",
+    "country": "Djibouti",
+    "countryCode": "DJ",
+    "zone": "Africa/Djibouti",
+    "population": 763506.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Roseau",
+    "country": "Dominica",
+    "countryCode": "DM",
+    "zone": "America/Dominica",
+    "population": 19953.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Santiago",
+    "country": "Dominican Republic",
+    "countryCode": "DO",
+    "zone": "America/Santo_Domingo",
+    "population": 1471007.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "countryCode": "DO",
+    "zone": "America/Santo_Domingo",
+    "population": 1078436.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Santo Domingo de Guzm",
+    "country": "Dominican Republic",
+    "countryCode": "DO",
+    "zone": "America/Santo_Domingo",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Kinshasa",
+    "country": "DR Congo",
+    "countryCode": "CD",
+    "zone": "Africa/Kinshasa",
+    "population": 6704351.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "zone": "America/Guayaquil",
+    "population": 2233014.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Quito",
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "zone": "America/Guayaquil",
+    "population": 1550407,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Alexandria",
+    "country": "Egypt",
+    "countryCode": "EG",
+    "zone": "Africa/Cairo",
+    "population": 3988258,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bur Said",
+    "country": "Egypt",
+    "countryCode": "EG",
+    "zone": "Africa/Cairo",
+    "population": 561932,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Cairo",
+    "country": "Egypt",
+    "countryCode": "EG",
+    "zone": "Africa/Cairo",
+    "population": 9813807,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "El Giza",
+    "country": "Egypt",
+    "countryCode": "EG",
+    "zone": "Africa/Cairo",
+    "population": 2681863,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "El Mansura",
+    "country": "Egypt",
+    "countryCode": "EG",
+    "zone": "Africa/Cairo",
+    "population": 540247,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Luxor",
+    "country": "Egypt",
+    "countryCode": "EG",
+    "zone": "Africa/Cairo",
+    "population": 548572,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "countryCode": "SV",
+    "zone": "America/El_Salvador",
+    "population": 717903.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Malabo",
+    "country": "Equatorial Guinea",
+    "countryCode": "GQ",
+    "zone": "Africa/Malabo",
+    "population": 155963,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Asmara",
+    "country": "Eritrea",
+    "countryCode": "ER",
+    "zone": "Africa/Asmara",
+    "population": 592366,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Tallinn",
+    "country": "Estonia",
+    "countryCode": "EE",
+    "zone": "Europe/Tallinn",
+    "population": 367025.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Mbabane",
+    "country": "Eswatini",
+    "countryCode": "SZ",
+    "zone": "Africa/Mbabane",
+    "population": 83178,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "countryCode": "ET",
+    "zone": "Africa/Addis_Ababa",
+    "population": 2928864.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Addis Abeba",
+    "country": "Ethiopia",
+    "countryCode": "ET",
+    "zone": "Africa/Nairobi",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Suva",
+    "country": "Fiji",
+    "countryCode": "FJ",
+    "zone": "Pacific/Fiji",
+    "population": 131835,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Helsinki",
+    "country": "Finland",
+    "countryCode": "FI",
+    "zone": "Europe/Helsinki",
+    "population": 836728.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Helsinki [Helsingfors]",
+    "country": "Finland",
+    "countryCode": "FI",
+    "zone": "Europe/Helsinki",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Bordeaux",
+    "country": "France",
+    "countryCode": "FR",
+    "zone": "Europe/Paris",
+    "population": 517422,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Lille",
+    "country": "France",
+    "countryCode": "FR",
+    "zone": "Europe/Paris",
+    "population": 636164,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Lyon",
+    "country": "France",
+    "countryCode": "FR",
+    "zone": "Europe/Paris",
+    "population": 947658.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Marseille",
+    "country": "France",
+    "countryCode": "FR",
+    "zone": "Europe/Paris",
+    "population": 1097405.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Nice",
+    "country": "France",
+    "countryCode": "FR",
+    "zone": "Europe/Paris",
+    "population": 632810,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "countryCode": "FR",
+    "zone": "Europe/Paris",
+    "population": 4957588.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Toulouse",
+    "country": "France",
+    "countryCode": "FR",
+    "zone": "Europe/Paris",
+    "population": 640027.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Libreville",
+    "country": "Gabon",
+    "countryCode": "GA",
+    "zone": "Africa/Libreville",
+    "population": 530755.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Banjul",
+    "country": "Gambia",
+    "countryCode": "GM",
+    "zone": "Africa/Banjul",
+    "population": 38841.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "countryCode": "GE",
+    "zone": "Asia/Tbilisi",
+    "population": 1052628.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "countryCode": "DE",
+    "zone": "Europe/Berlin",
+    "population": 3250007,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Bremen",
+    "country": "Germany",
+    "countryCode": "DE",
+    "zone": "Europe/Berlin",
+    "population": 635705,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Cologne",
+    "country": "Germany",
+    "countryCode": "DE",
+    "zone": "Europe/Berlin",
+    "population": 983697.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Dortmund",
+    "country": "Germany",
+    "countryCode": "DE",
+    "zone": "Europe/Berlin",
+    "population": 588462,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Dresden",
+    "country": "Germany",
+    "countryCode": "DE",
+    "zone": "Europe/Berlin",
+    "population": 552184.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Duisburg",
+    "country": "Germany",
+    "countryCode": "DE",
+    "zone": "Europe/Berlin",
+    "population": 882381,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Düsseldorf",
+    "country": "Germany",
+    "countryCode": "DE",
+    "zone": "Europe/Berlin",
+    "population": 906196.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Essen",
+    "country": "Germany",
+    "countryCode": "DE",
+    "zone": "Europe/Berlin",
+    "population": 1157801.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "countryCode": "DE",
+    "zone": "Europe/Berlin",
+    "population": 1787332,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hamburg",
+    "country": "Germany",
+    "countryCode": "DE",
+    "zone": "Europe/Berlin",
+    "population": 1748058.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hannover",
+    "country": "Germany",
+    "countryCode": "DE",
+    "zone": "Europe/Berlin",
+    "population": 618815,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Leipzig",
+    "country": "Germany",
+    "countryCode": "DE",
+    "zone": "Europe/Berlin",
+    "population": 523750,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Mannheim",
+    "country": "Germany",
+    "countryCode": "DE",
+    "zone": "Europe/Berlin",
+    "population": 1337587,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Munich",
+    "country": "Germany",
+    "countryCode": "DE",
+    "zone": "Europe/Berlin",
+    "population": 1267695.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Nürnberg",
+    "country": "Germany",
+    "countryCode": "DE",
+    "zone": "Europe/Berlin",
+    "population": 618270.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Stuttgart",
+    "country": "Germany",
+    "countryCode": "DE",
+    "zone": "Europe/Berlin",
+    "population": 1775644,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Wuppertal",
+    "country": "Germany",
+    "countryCode": "DE",
+    "zone": "Europe/Berlin",
+    "population": 562997.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Accra",
+    "country": "Ghana",
+    "countryCode": "GH",
+    "zone": "Africa/Accra",
+    "population": 2042132,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Kumasi",
+    "country": "Ghana",
+    "countryCode": "GH",
+    "zone": "Africa/Accra",
+    "population": 1468575.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Athenai",
+    "country": "Greece",
+    "countryCode": "GR",
+    "zone": "Europe/Athens",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Athens",
+    "country": "Greece",
+    "countryCode": "GR",
+    "zone": "Europe/Athens",
+    "population": 1985568.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "countryCode": "GR",
+    "zone": "Europe/Athens",
+    "population": 591145,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Saint George's",
+    "country": "Grenada",
+    "countryCode": "GD",
+    "zone": "America/Grenada",
+    "population": 30538.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Ciudad de Guatemala",
+    "country": "Guatemala",
+    "countryCode": "GT",
+    "zone": "America/Guatemala",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Guatemala",
+    "country": "Guatemala",
+    "countryCode": "GT",
+    "zone": "America/Guatemala",
+    "population": 1009469,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Conakry",
+    "country": "Guinea",
+    "countryCode": "GN",
+    "zone": "Africa/Conakry",
+    "population": 1494000,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Bissau",
+    "country": "Guinea-Bissau",
+    "countryCode": "GW",
+    "zone": "Africa/Bissau",
+    "population": 395683.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Georgetown",
+    "country": "Guyana",
+    "countryCode": "GY",
+    "zone": "America/Guyana",
+    "population": 249683.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Port-au-Prince",
+    "country": "Haiti",
+    "countryCode": "HT",
+    "zone": "America/Port-au-Prince",
+    "population": 1616371,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "San Pedro Sula",
+    "country": "Honduras",
+    "countryCode": "HN",
+    "zone": "America/Tegucigalpa",
+    "population": 584778.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tegucigalpa",
+    "country": "Honduras",
+    "countryCode": "HN",
+    "zone": "America/Tegucigalpa",
+    "population": 898424,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Hong Kong",
+    "country": "Hong Kong S.A.R.",
+    "countryCode": "HK",
+    "zone": "Asia/Hong_Kong",
+    "population": 5878789.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Budapest",
+    "country": "Hungary",
+    "countryCode": "HU",
+    "zone": "Europe/Budapest",
+    "population": 1679000,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "countryCode": "IS",
+    "zone": "Atlantic/Reykjavik",
+    "population": 140059,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Agra",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1511027.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ahmedabad",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 4547355,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ajmer",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 553948,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Aligarh",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 779103.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Amravati",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 669144,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Amritsar",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1152225,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Asansol",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1328000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Atal Nagar",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 777497.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bareilly",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 781217.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Belagavi",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 609472.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bengaluru",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 5945523.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bhavnagar",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 509790,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bhilai",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1097000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bhiwandi",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 751017.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bhopal",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1663457,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bhubaneshwar",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 803121.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Chandigarh",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 946685.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Chennai",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 5745531.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Chhatrapati Sambhajinagar",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1064720.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Coimbatore",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1327911.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Cuttack",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 580000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Dehra Dun",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 646321.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Delhi",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 11779606.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Dhanbad",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 732818,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Faridabad",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1394000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ghaziabad",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1270095.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Gorakhpur",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 674246,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Guntur",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 530577,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Guwahati",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 500258,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Gwalior",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 930229,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Haora",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 2934655,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hubballi",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 841402,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hyderabad",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 4986908,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Indore",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1931520.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jabalpur",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1157584,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jaipur",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 2814379,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jammu",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 628283.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jamshedpur",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 958169,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jhansi",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 619710.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jodhpur",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 958238,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jullundur",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 820089,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kalyan",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1576614,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kanpur",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 2992624.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kochi",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1061848,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kolhapur",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 655920.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kolkata",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 9709196,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kota",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 795044,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kozhikode",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 696461,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Lucknow",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 2583505.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ludhiana",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1597184,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Madurai",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1101954,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Malegaon",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 563103,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Mangaluru",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 597009.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Meerut",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1310592,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Moradabad",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 754069.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Mumbai",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 15834918,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Mysuru",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 877656.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Nagpur",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 2341009,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Nanded",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 587136,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Nasik",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1381248.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Nellore",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 541081,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "New Delhi",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 317797,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Patna",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1878960,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Prayagraj",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1137219,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Pune",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 3803872,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Rajkot",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1179941,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ranchi",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 945227,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Raurkela",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 554730,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Salem",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 825698,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Sangli",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 601214,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Sholapur",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1009056,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Siliguri",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 515574,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Srinagar",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1057928.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Surat",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 3368252,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 869076.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tiruchirappalli",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 863242,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tiruppur",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 547271.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Vadodara",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1582738,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Varanasi",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1258202,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Vijayawada",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1005793.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Vishakhapatnam",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1296089,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Warangal",
+    "country": "India",
+    "countryCode": "IN",
+    "zone": "Asia/Kolkata",
+    "population": 1034690,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bandar Lampung",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "zone": "Asia/Jakarta",
+    "population": 795757,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bandjarmasin",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "zone": "Asia/Makassar",
+    "population": 588206.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bandung",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "zone": "Asia/Jakarta",
+    "population": 2046859.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bekasi",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "zone": "Asia/Jakarta",
+    "population": 1949165,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bogor",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "zone": "Asia/Jakarta",
+    "population": 859000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Cilacap",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "zone": "Asia/Jakarta",
+    "population": 1174964,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Denpasar",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "zone": "Asia/Makassar",
+    "population": 569133.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "zone": "Asia/Jakarta",
+    "population": 8832560.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Malang",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "zone": "Asia/Jakarta",
+    "population": 775858,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Medan",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "zone": "Asia/Jakarta",
+    "population": 1932985.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Padang",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "zone": "Asia/Jakarta",
+    "population": 847676,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Palembang",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "zone": "Asia/Jakarta",
+    "population": 1595250,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Pekanbaru",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "zone": "Asia/Jakarta",
+    "population": 705218,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Pontianak",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "zone": "Asia/Pontianak",
+    "population": 578807.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Semarang",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "zone": "Asia/Jakarta",
+    "population": 1342042,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Surabaya",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "zone": "Asia/Jakarta",
+    "population": 2609829,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Surakarta",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "zone": "Asia/Jakarta",
+    "population": 555308,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ujungpandang",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "zone": "Asia/Makassar",
+    "population": 1262000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yogyakarta",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "zone": "Asia/Jakarta",
+    "population": 636660,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ahvaz",
+    "country": "Iran",
+    "countryCode": "IR",
+    "zone": "Asia/Tehran",
+    "population": 918572.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Isfahan",
+    "country": "Iran",
+    "countryCode": "IR",
+    "zone": "Asia/Tehran",
+    "population": 1572883,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Karaj",
+    "country": "Iran",
+    "countryCode": "IR",
+    "zone": "Asia/Tehran",
+    "population": 1423000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kerman",
+    "country": "Iran",
+    "countryCode": "IR",
+    "zone": "Asia/Tehran",
+    "population": 556518,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kermanshah",
+    "country": "Iran",
+    "countryCode": "IR",
+    "zone": "Asia/Tehran",
+    "population": 828313,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Mashhad",
+    "country": "Iran",
+    "countryCode": "IR",
+    "zone": "Asia/Tehran",
+    "population": 2318126.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Qom",
+    "country": "Iran",
+    "countryCode": "IR",
+    "zone": "Asia/Tehran",
+    "population": 933478,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Rasht",
+    "country": "Iran",
+    "countryCode": "IR",
+    "zone": "Asia/Tehran",
+    "population": 544737.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Shiraz",
+    "country": "Iran",
+    "countryCode": "IR",
+    "zone": "Asia/Tehran",
+    "population": 1240000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tabriz",
+    "country": "Iran",
+    "countryCode": "IR",
+    "zone": "Asia/Tehran",
+    "population": 1304713,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tehran",
+    "country": "Iran",
+    "countryCode": "IR",
+    "zone": "Asia/Tehran",
+    "population": 7513154.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Zahedan",
+    "country": "Iran",
+    "countryCode": "IR",
+    "zone": "Asia/Tehran",
+    "population": 575433.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "An Najaf",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "zone": "Asia/Baghdad",
+    "population": 612776,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "As Sulaymaniyah",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "zone": "Asia/Baghdad",
+    "population": 654318,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Baghdad",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "zone": "Asia/Baghdad",
+    "population": 5054000,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Basra",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "zone": "Asia/Baghdad",
+    "population": 870000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Dahuk",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "zone": "Asia/Baghdad",
+    "population": 620500,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Irbil",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "zone": "Asia/Baghdad",
+    "population": 795870,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kirkuk",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "zone": "Asia/Baghdad",
+    "population": 555052.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Mosul",
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "zone": "Asia/Baghdad",
+    "population": 1228467,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Dublin",
+    "country": "Ireland",
+    "countryCode": "IE",
+    "zone": "Europe/Dublin",
+    "population": 1013988,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Haifa",
+    "country": "Israel",
+    "countryCode": "IL",
+    "zone": "Asia/Jerusalem",
+    "population": 639150,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jerusalem",
+    "country": "Israel",
+    "countryCode": "IL",
+    "zone": "Asia/Jerusalem",
+    "population": 915150,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Tel Aviv-Yafo",
+    "country": "Israel",
+    "countryCode": "IL",
+    "zone": "Asia/Jerusalem",
+    "population": 1745179,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Florence",
+    "country": "Italy",
+    "countryCode": "IT",
+    "zone": "Europe/Rome",
+    "population": 935758.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Genoa",
+    "country": "Italy",
+    "countryCode": "IT",
+    "zone": "Europe/Rome",
+    "population": 624724,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Milan",
+    "country": "Italy",
+    "countryCode": "IT",
+    "zone": "Europe/Rome",
+    "population": 2125830.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Naples",
+    "country": "Italy",
+    "countryCode": "IT",
+    "zone": "Europe/Rome",
+    "population": 1619486,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Palermo",
+    "country": "Italy",
+    "countryCode": "IT",
+    "zone": "Europe/Rome",
+    "population": 767587.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Roma",
+    "country": "Italy",
+    "countryCode": "IT",
+    "zone": "Europe/Rome",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Rome",
+    "country": "Italy",
+    "countryCode": "IT",
+    "zone": "Europe/Rome",
+    "population": 1687226,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Salerno",
+    "country": "Italy",
+    "countryCode": "IT",
+    "zone": "Europe/Rome",
+    "population": 546922,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Turin",
+    "country": "Italy",
+    "countryCode": "IT",
+    "zone": "Europe/Rome",
+    "population": 1258631.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Abidjan",
+    "country": "Ivory Coast",
+    "countryCode": "CI",
+    "zone": "Africa/Abidjan",
+    "population": 3496197.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bouake",
+    "country": "Ivory Coast",
+    "countryCode": "CI",
+    "zone": "Africa/Abidjan",
+    "population": 511151,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yamoussoukro",
+    "country": "Ivory Coast",
+    "countryCode": "CI",
+    "zone": "Africa/Abidjan",
+    "population": 200514.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Kingston",
+    "country": "Jamaica",
+    "countryCode": "JM",
+    "zone": "America/Jamaica",
+    "population": 801336.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Fukuoka",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 2092144.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hachioji",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 579399,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hamamatsu",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 887242.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hiroshima",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 1594420.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kagoshima",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 536092.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kanazawa",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 505093,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kawasaki",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 1372025.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kitakyushu",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 990286.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kobe",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 1528478,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kumamoto",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 699327.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kyoto",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 1632320,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Matsuyama",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 525089,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Nagoya",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 2710639.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Naha",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 611572,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Niigata",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 537534.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Okayama",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 752872,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Osaka",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 6943206.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Sapporo",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 2202893,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Sendai",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 1643781,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Shizuoka",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 686446.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tokyo",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 22006299.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Utsunomiya",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 558808.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yokohama",
+    "country": "Japan",
+    "countryCode": "JP",
+    "zone": "Asia/Tokyo",
+    "population": 3697894,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Amman",
+    "country": "Jordan",
+    "countryCode": "JO",
+    "zone": "Asia/Amman",
+    "population": 1060000,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Az Zarqa",
+    "country": "Jordan",
+    "countryCode": "JO",
+    "zone": "Asia/Amman",
+    "population": 843678,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "zone": "Asia/Almaty",
+    "population": 1096256,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Astana",
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "zone": "Asia/Almaty",
+    "population": 335312.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Mombasa",
+    "country": "Kenya",
+    "countryCode": "KE",
+    "zone": "Africa/Nairobi",
+    "population": 840834,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Nairobi",
+    "country": "Kenya",
+    "countryCode": "KE",
+    "zone": "Africa/Nairobi",
+    "population": 2880273.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Bairiki",
+    "country": "Kiribati",
+    "countryCode": "KI",
+    "zone": "Pacific/Kanton",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Kuwait",
+    "country": "Kuwait",
+    "countryCode": "KW",
+    "zone": "Asia/Kuwait",
+    "population": 1061532,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Bishkek",
+    "country": "Kyrgyzstan",
+    "countryCode": "KG",
+    "zone": "Asia/Bishkek",
+    "population": 820606,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Vientiane",
+    "country": "Laos",
+    "countryCode": "LA",
+    "zone": "Asia/Vientiane",
+    "population": 662174,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Riga",
+    "country": "Latvia",
+    "countryCode": "LV",
+    "zone": "Europe/Riga",
+    "population": 723802.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Beirut",
+    "country": "Lebanon",
+    "countryCode": "LB",
+    "zone": "Asia/Beirut",
+    "population": 1779062.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Maseru",
+    "country": "Lesotho",
+    "countryCode": "LS",
+    "zone": "Africa/Maseru",
+    "population": 239839.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Monrovia",
+    "country": "Liberia",
+    "countryCode": "LR",
+    "zone": "Africa/Monrovia",
+    "population": 913331,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Banghazi",
+    "country": "Libya",
+    "countryCode": "LY",
+    "zone": "Africa/Tripoli",
+    "population": 881187,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tripoli",
+    "country": "Libya",
+    "countryCode": "LY",
+    "zone": "Africa/Tripoli",
+    "population": 1209199,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Vaduz",
+    "country": "Liechtenstein",
+    "countryCode": "LI",
+    "zone": "Europe/Vaduz",
+    "population": 20811.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "countryCode": "LT",
+    "zone": "Europe/Vilnius",
+    "population": 524697.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Luxembourg [Luxemburg/L",
+    "country": "Luxembourg",
+    "countryCode": "LU",
+    "zone": "Europe/Brussels",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Macau",
+    "country": "Macau S.A.R",
+    "countryCode": "MO",
+    "zone": "Asia/Macau",
+    "population": 568700,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "countryCode": "MG",
+    "zone": "Indian/Antananarivo",
+    "population": 1544216.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Blantyre",
+    "country": "Malawi",
+    "countryCode": "MW",
+    "zone": "Africa/Blantyre",
+    "population": 584877,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Lilongwe",
+    "country": "Malawi",
+    "countryCode": "MW",
+    "zone": "Africa/Blantyre",
+    "population": 646750,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "George Town",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "zone": "Asia/Kuala_Lumpur",
+    "population": 1610101,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ipoh",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "zone": "Asia/Kuala_Lumpur",
+    "population": 656227,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Johor Bahru",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "zone": "Asia/Kuala_Lumpur",
+    "population": 838744.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kelang",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "zone": "Asia/Kuala_Lumpur",
+    "population": 917933.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "zone": "Asia/Kuala_Lumpur",
+    "population": 1448000,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Kuching",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "zone": "Asia/Kuching",
+    "population": 537685,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Malacca",
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "zone": "Asia/Kuala_Lumpur",
+    "population": 645916.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Male",
+    "country": "Maldives",
+    "countryCode": "MV",
+    "zone": "Indian/Maldives",
+    "population": 108310,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Bamako",
+    "country": "Mali",
+    "countryCode": "ML",
+    "zone": "Africa/Bamako",
+    "population": 1395640.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Valletta",
+    "country": "Malta",
+    "countryCode": "MT",
+    "zone": "Europe/Malta",
+    "population": 187608,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Dalap-Uliga-Darrit",
+    "country": "Marshall Islands",
+    "countryCode": "MH",
+    "zone": "Pacific/Kwajalein",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Nouakchott",
+    "country": "Mauritania",
+    "countryCode": "MR",
+    "zone": "Africa/Nouakchott",
+    "population": 701772,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Port-Louis",
+    "country": "Mauritius",
+    "countryCode": "MU",
+    "zone": "Indian/Mauritius",
+    "population": 371953.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Acapulco",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Mexico_City",
+    "population": 683860,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Aguascalientes",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Mexico_City",
+    "population": 763589.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Chihuahua",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Chihuahua",
+    "population": 750633.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ciudad de M",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Bahia_Banderas",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Ciudad Juárez",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Ojinaga",
+    "population": 1343000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Cuernavaca",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Mexico_City",
+    "population": 591551.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Culiacan",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Mazatlan",
+    "population": 695734.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Mexico_City",
+    "population": 2919294.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Hermosillo",
+    "population": 554373,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Leon",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Mexico_City",
+    "population": 1301313,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Merida",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Merida",
+    "population": 841087.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Mexicali",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Tijuana",
+    "population": 736138.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Mexico City",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Mexico_City",
+    "population": 14919501,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Monterrey",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Monterrey",
+    "population": 2417437,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Morelia",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Mexico_City",
+    "population": 618551.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Nezahualcoyotl",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Mexico_City",
+    "population": 929681.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Puebla",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Mexico_City",
+    "population": 1793549.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Queretaro",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Mexico_City",
+    "population": 786392.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Saltillo",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Monterrey",
+    "population": 679286.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "San Luis Potosi",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Mexico_City",
+    "population": 834852,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tampico",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Monterrey",
+    "population": 578351.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tijuana",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Tijuana",
+    "population": 1464728.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Toluca",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Mexico_City",
+    "population": 1018440.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Torreon",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Monterrey",
+    "population": 834033,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Veracruz",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "zone": "America/Mexico_City",
+    "population": 573638,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Palikir",
+    "country": "Micronesia",
+    "countryCode": "FM",
+    "zone": "Pacific/Pohnpei",
+    "population": 4645,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Chisinau",
+    "country": "Moldova",
+    "countryCode": "MD",
+    "zone": "Europe/Chisinau",
+    "population": 662064,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Monaco-Ville",
+    "country": "Monaco",
+    "countryCode": "MC",
+    "zone": "Europe/Paris",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Ulaanbaatar",
+    "country": "Mongolia",
+    "countryCode": "MN",
+    "zone": "Asia/Ulaanbaatar",
+    "population": 827306,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ulan Bator",
+    "country": "Mongolia",
+    "countryCode": "MN",
+    "zone": "Asia/Hovd",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Podgorica",
+    "country": "Montenegro",
+    "countryCode": "ME",
+    "zone": "Europe/Podgorica",
+    "population": 141161.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Agadir",
+    "country": "Morocco",
+    "countryCode": "MA",
+    "zone": "Africa/Casablanca",
+    "population": 752031.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Casablanca",
+    "country": "Morocco",
+    "countryCode": "MA",
+    "zone": "Africa/Casablanca",
+    "population": 3162954.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Fez",
+    "country": "Morocco",
+    "countryCode": "MA",
+    "zone": "Africa/Casablanca",
+    "population": 983445.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Marrakesh",
+    "country": "Morocco",
+    "countryCode": "MA",
+    "zone": "Africa/Casablanca",
+    "population": 855648,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Meknes",
+    "country": "Morocco",
+    "countryCode": "MA",
+    "zone": "Africa/Casablanca",
+    "population": 621666.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Rabat",
+    "country": "Morocco",
+    "countryCode": "MA",
+    "zone": "Africa/Casablanca",
+    "population": 1680376.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Tangier",
+    "country": "Morocco",
+    "countryCode": "MA",
+    "zone": "Africa/Casablanca",
+    "population": 719208,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Beira",
+    "country": "Mozambique",
+    "countryCode": "MZ",
+    "zone": "Africa/Maputo",
+    "population": 507196.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Maputo",
+    "country": "Mozambique",
+    "countryCode": "MZ",
+    "zone": "Africa/Maputo",
+    "population": 1318806.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Matola",
+    "country": "Mozambique",
+    "countryCode": "MZ",
+    "zone": "Africa/Maputo",
+    "population": 503368,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Mandalay",
+    "country": "Myanmar",
+    "countryCode": "MM",
+    "zone": "Asia/Rangoon",
+    "population": 1167000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Naypyidaw",
+    "country": "Myanmar",
+    "countryCode": "MM",
+    "zone": "Asia/Rangoon",
+    "population": 562412,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Rangoon",
+    "country": "Myanmar",
+    "countryCode": "MM",
+    "zone": "Asia/Rangoon",
+    "population": 3694910,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Rangoon (Yangon)",
+    "country": "Myanmar",
+    "countryCode": "MM",
+    "zone": "Asia/Yangon",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Windhoek",
+    "country": "Namibia",
+    "countryCode": "NA",
+    "zone": "Africa/Windhoek",
+    "population": 265464,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Yaren",
+    "country": "Nauru",
+    "countryCode": "NR",
+    "zone": "Pacific/Nauru",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "countryCode": "NP",
+    "zone": "Asia/Kathmandu",
+    "population": 895000,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "zone": "Europe/Amsterdam",
+    "population": 886318,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "zone": "Europe/Amsterdam",
+    "population": 801599.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "The Hague",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "zone": "Europe/Amsterdam",
+    "population": 953862.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Auckland",
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "zone": "Pacific/Auckland",
+    "population": 759510,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Wellington",
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "zone": "Pacific/Auckland",
+    "population": 296300,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Managua",
+    "country": "Nicaragua",
+    "countryCode": "NI",
+    "zone": "America/Managua",
+    "population": 920000,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Niamey",
+    "country": "Niger",
+    "countryCode": "NE",
+    "zone": "Africa/Niamey",
+    "population": 828895.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Aba",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "zone": "Africa/Lagos",
+    "population": 874385,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Abuja",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "zone": "Africa/Lagos",
+    "population": 869067.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Benin City",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "zone": "Africa/Lagos",
+    "population": 929013,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Enugu",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "zone": "Africa/Lagos",
+    "population": 688862,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ibadan",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "zone": "Africa/Lagos",
+    "population": 2221285,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ikare",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "zone": "Africa/Lagos",
+    "population": 899965.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ilorin",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "zone": "Africa/Lagos",
+    "population": 701742,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jos",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "zone": "Africa/Lagos",
+    "population": 737068.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kaduna",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "zone": "Africa/Lagos",
+    "population": 1191296.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kano",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "zone": "Africa/Lagos",
+    "population": 3140000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Lagos",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "zone": "Africa/Lagos",
+    "population": 4733768,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Maiduguri",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "zone": "Africa/Lagos",
+    "population": 704230,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ogbomosho",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "zone": "Africa/Lagos",
+    "population": 595063.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Port Harcourt",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "zone": "Africa/Lagos",
+    "population": 1020000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Sokoto",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "zone": "Africa/Lagos",
+    "population": 648019.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Warri",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "zone": "Africa/Lagos",
+    "population": 683064.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Zaria",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "zone": "Africa/Lagos",
+    "population": 754836.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hamhung",
+    "country": "North Korea",
+    "countryCode": "KP",
+    "zone": "Asia/Pyongyang",
+    "population": 595670.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hungnam",
+    "country": "North Korea",
+    "countryCode": "KP",
+    "zone": "Asia/Pyongyang",
+    "population": 548702,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Nampo",
+    "country": "North Korea",
+    "countryCode": "KP",
+    "zone": "Asia/Pyongyang",
+    "population": 791000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Pyongyang",
+    "country": "North Korea",
+    "countryCode": "KP",
+    "zone": "Asia/Pyongyang",
+    "population": 2899398.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "countryCode": "MK",
+    "zone": "Europe/Skopje",
+    "population": 484488,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Oslo",
+    "country": "Norway",
+    "countryCode": "NO",
+    "zone": "Europe/Oslo",
+    "population": 707500,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Masqat",
+    "country": "Oman",
+    "countryCode": "OM",
+    "zone": "Asia/Dubai",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Muscat",
+    "country": "Oman",
+    "countryCode": "OM",
+    "zone": "Asia/Muscat",
+    "population": 660779,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Abbottabad",
+    "country": "Pakistan",
+    "countryCode": "PK",
+    "zone": "Asia/Karachi",
+    "population": 1032323.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bahawalpur",
+    "country": "Pakistan",
+    "countryCode": "PK",
+    "zone": "Asia/Karachi",
+    "population": 552607,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bannu",
+    "country": "Pakistan",
+    "countryCode": "PK",
+    "zone": "Asia/Karachi",
+    "population": 586209.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Faisalabad",
+    "country": "Pakistan",
+    "countryCode": "PK",
+    "zone": "Asia/Karachi",
+    "population": 2561797.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Gujranwala",
+    "country": "Pakistan",
+    "countryCode": "PK",
+    "zone": "Asia/Karachi",
+    "population": 1448735.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hyderabad",
+    "country": "Pakistan",
+    "countryCode": "PK",
+    "zone": "Asia/Karachi",
+    "population": 1422665,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "countryCode": "PK",
+    "zone": "Asia/Karachi",
+    "population": 690800,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Karachi",
+    "country": "Pakistan",
+    "countryCode": "PK",
+    "zone": "Asia/Karachi",
+    "population": 11877109.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Lahore",
+    "country": "Pakistan",
+    "countryCode": "PK",
+    "zone": "Asia/Karachi",
+    "population": 6443944,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Multan",
+    "country": "Pakistan",
+    "countryCode": "PK",
+    "zone": "Asia/Karachi",
+    "population": 1479615,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Peshawar",
+    "country": "Pakistan",
+    "countryCode": "PK",
+    "zone": "Asia/Karachi",
+    "population": 1260886.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Quetta",
+    "country": "Pakistan",
+    "countryCode": "PK",
+    "zone": "Asia/Karachi",
+    "population": 750837.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Rawalpindi",
+    "country": "Pakistan",
+    "countryCode": "PK",
+    "zone": "Asia/Karachi",
+    "population": 1800550.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Saidu",
+    "country": "Pakistan",
+    "countryCode": "PK",
+    "zone": "Asia/Karachi",
+    "population": 1860310,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Sargodha",
+    "country": "Pakistan",
+    "countryCode": "PK",
+    "zone": "Asia/Karachi",
+    "population": 542603,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Koror",
+    "country": "Palau",
+    "countryCode": "PW",
+    "zone": "Pacific/Palau",
+    "population": 11200,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Gaza",
+    "country": "Palestine",
+    "countryCode": "PS",
+    "zone": "Asia/Gaza",
+    "population": 477460.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Ciudad de Panamá",
+    "country": "Panama",
+    "countryCode": "PA",
+    "zone": "America/Panama",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Panama City",
+    "country": "Panama",
+    "countryCode": "PA",
+    "zone": "America/Panama",
+    "population": 844584,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Port Moresby",
+    "country": "Papua New Guinea",
+    "countryCode": "PG",
+    "zone": "Pacific/Port_Moresby",
+    "population": 267434.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Asunción",
+    "country": "Paraguay",
+    "countryCode": "PY",
+    "zone": "America/Asuncion",
+    "population": 940846.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Arequipa",
+    "country": "Peru",
+    "countryCode": "PE",
+    "zone": "America/Lima",
+    "population": 775785,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Callao",
+    "country": "Peru",
+    "countryCode": "PE",
+    "zone": "America/Lima",
+    "population": 786231.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Chiclayo",
+    "country": "Peru",
+    "countryCode": "PE",
+    "zone": "America/Lima",
+    "population": 587083.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Lima",
+    "country": "Peru",
+    "countryCode": "PE",
+    "zone": "America/Lima",
+    "population": 7385117,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Trujillo",
+    "country": "Peru",
+    "countryCode": "PE",
+    "zone": "America/Lima",
+    "population": 521046,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bacolod",
+    "country": "Philippines",
+    "countryCode": "PH",
+    "zone": "Asia/Manila",
+    "population": 730587,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Cagayan de Oro",
+    "country": "Philippines",
+    "countryCode": "PH",
+    "zone": "Asia/Manila",
+    "population": 861824.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Cebu",
+    "country": "Philippines",
+    "countryCode": "PH",
+    "zone": "Asia/Manila",
+    "population": 806817,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Davao",
+    "country": "Philippines",
+    "countryCode": "PH",
+    "zone": "Asia/Manila",
+    "population": 1307252,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "General Santos",
+    "country": "Philippines",
+    "countryCode": "PH",
+    "zone": "Asia/Manila",
+    "population": 744308,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Manila",
+    "country": "Philippines",
+    "countryCode": "PH",
+    "zone": "Asia/Manila",
+    "population": 7088787.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Quezon City",
+    "country": "Philippines",
+    "countryCode": "PH",
+    "zone": "Asia/Manila",
+    "population": 2761720,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Zamboanga",
+    "country": "Philippines",
+    "countryCode": "PH",
+    "zone": "Asia/Manila",
+    "population": 615311.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Gdansk",
+    "country": "Poland",
+    "countryCode": "PL",
+    "zone": "Europe/Warsaw",
+    "population": 597915,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Katowice",
+    "country": "Poland",
+    "countryCode": "PL",
+    "zone": "Europe/Warsaw",
+    "population": 1527362,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kraków",
+    "country": "Poland",
+    "countryCode": "PL",
+    "zone": "Europe/Warsaw",
+    "population": 755525,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Lódz",
+    "country": "Poland",
+    "countryCode": "PL",
+    "zone": "Europe/Warsaw",
+    "population": 758000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Poznan",
+    "country": "Poland",
+    "countryCode": "PL",
+    "zone": "Europe/Warsaw",
+    "population": 597174.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Warsaw",
+    "country": "Poland",
+    "countryCode": "PL",
+    "zone": "Europe/Warsaw",
+    "population": 1704569.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Warszawa",
+    "country": "Poland",
+    "countryCode": "PL",
+    "zone": "Europe/Warsaw",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Wroclaw",
+    "country": "Poland",
+    "countryCode": "PL",
+    "zone": "Europe/Warsaw",
+    "population": 622471,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Braga",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "zone": "Europe/Lisbon",
+    "population": 504326,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Lisboa",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "zone": "Atlantic/Azores",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "zone": "Europe/Lisbon",
+    "population": 1664901,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Porto",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "zone": "Europe/Lisbon",
+    "population": 793316.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "San Juan",
+    "country": "Puerto Rico",
+    "countryCode": "PR",
+    "zone": "America/Puerto_Rico",
+    "population": 1437115.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Doha",
+    "country": "Qatar",
+    "countryCode": "QA",
+    "zone": "Asia/Qatar",
+    "population": 1090655,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Brazzaville",
+    "country": "Republic of the Congo",
+    "countryCode": "CG",
+    "zone": "Africa/Brazzaville",
+    "population": 1259445,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Bucharest",
+    "country": "Romania",
+    "countryCode": "RO",
+    "zone": "Europe/Bucharest",
+    "population": 1842097,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bucuresti",
+    "country": "Romania",
+    "countryCode": "RO",
+    "zone": "Europe/Bucharest",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Barnaul",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Asia/Barnaul",
+    "population": 569711,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Chelyabinsk",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Asia/Yekaterinburg",
+    "population": 1018802,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Irkutsk",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Asia/Irkutsk",
+    "population": 572325,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Izhevsk",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Europe/Samara",
+    "population": 611230,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kazan",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Europe/Moscow",
+    "population": 1013635,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Khabarovsk",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Asia/Vladivostok",
+    "population": 562705.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Krasnodar",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Europe/Moscow",
+    "population": 601191.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Krasnoyarsk",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Asia/Krasnoyarsk",
+    "population": 613605,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Lipetsk",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Europe/Moscow",
+    "population": 502144,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Makhachkala",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Europe/Moscow",
+    "population": 526470,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Moscow",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Europe/Moscow",
+    "population": 10452000,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Nizhny Novgorod",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Europe/Moscow",
+    "population": 1246463,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Novokuznetsk",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Asia/Novokuznetsk",
+    "population": 530325.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Asia/Novosibirsk",
+    "population": 1213100.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Omsk",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Asia/Omsk",
+    "population": 1089201.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Orenburg",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Asia/Yekaterinburg",
+    "population": 530820.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Rostov",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Europe/Moscow",
+    "population": 1032567,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ryazan",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Europe/Moscow",
+    "population": 502373,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Samara",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Europe/Samara",
+    "population": 996595,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Saratov",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Europe/Saratov",
+    "population": 814586.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "St. Petersburg",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Europe/Moscow",
+    "population": 4023106,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tolyatti",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Europe/Samara",
+    "population": 648622,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ufa",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Asia/Yekaterinburg",
+    "population": 969378,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ulyanovsk",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Europe/Ulyanovsk",
+    "population": 571553.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Vladivostok",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Asia/Vladivostok",
+    "population": 586617,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Volgograd",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Europe/Volgograd",
+    "population": 801827.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Voronezh",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Europe/Moscow",
+    "population": 569734.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yaroslavl",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Europe/Moscow",
+    "population": 571154,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Yekaterinburg",
+    "country": "Russia",
+    "countryCode": "RU",
+    "zone": "Asia/Yekaterinburg",
+    "population": 1270488,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kigali",
+    "country": "Rwanda",
+    "countryCode": "RW",
+    "zone": "Africa/Kigali",
+    "population": 802630.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Basseterre",
+    "country": "Saint Kitts and Nevis",
+    "countryCode": "KN",
+    "zone": "America/St_Kitts",
+    "population": 18693.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Castries",
+    "country": "Saint Lucia",
+    "countryCode": "LC",
+    "zone": "America/St_Lucia",
+    "population": 24298.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Kingstown",
+    "country": "Saint Vincent and the Grenadines",
+    "countryCode": "VC",
+    "zone": "America/St_Vincent",
+    "population": 37001.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Apia",
+    "country": "Samoa",
+    "countryCode": "WS",
+    "zone": "Pacific/Apia",
+    "population": 49812,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "San Marino",
+    "country": "San Marino",
+    "countryCode": "SM",
+    "zone": "Europe/San_Marino",
+    "population": 29289.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "São Tomé",
+    "country": "São Tomé and Príncipe",
+    "countryCode": "ST",
+    "zone": "Africa/Sao_Tome",
+    "population": 72192.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Ad Damman",
+    "country": "Saudi Arabia",
+    "countryCode": "SA",
+    "zone": "Asia/Riyadh",
+    "population": 1411656,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Al Hillah",
+    "country": "Saudi Arabia",
+    "countryCode": "SA",
+    "zone": "Asia/Riyadh",
+    "population": 594605,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Al Hufuf",
+    "country": "Saudi Arabia",
+    "countryCode": "SA",
+    "zone": "Asia/Riyadh",
+    "population": 518694.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "At Taif",
+    "country": "Saudi Arabia",
+    "countryCode": "SA",
+    "zone": "Asia/Riyadh",
+    "population": 594065,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jeddah",
+    "country": "Saudi Arabia",
+    "countryCode": "SA",
+    "zone": "Asia/Riyadh",
+    "population": 2939723,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Makkah",
+    "country": "Saudi Arabia",
+    "countryCode": "SA",
+    "zone": "Asia/Riyadh",
+    "population": 1354312,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Medina",
+    "country": "Saudi Arabia",
+    "countryCode": "SA",
+    "zone": "Asia/Riyadh",
+    "population": 1010000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "countryCode": "SA",
+    "zone": "Asia/Riyadh",
+    "population": 4335480.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Tabuk",
+    "country": "Saudi Arabia",
+    "countryCode": "SA",
+    "zone": "Asia/Riyadh",
+    "population": 501703.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Dakar",
+    "country": "Senegal",
+    "countryCode": "SN",
+    "zone": "Africa/Dakar",
+    "population": 2540200,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Belgrade",
+    "country": "Serbia",
+    "countryCode": "RS",
+    "zone": "Europe/Belgrade",
+    "population": 1099000,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Victoria",
+    "country": "Seychelles",
+    "countryCode": "SC",
+    "zone": "Indian/Mahe",
+    "population": 28228.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Freetown",
+    "country": "Sierra Leone",
+    "countryCode": "SL",
+    "zone": "Africa/Freetown",
+    "population": 420384,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Singapore",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "zone": "Asia/Singapore",
+    "population": 4236614.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "countryCode": "SK",
+    "zone": "Europe/Bratislava",
+    "population": 398712,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "countryCode": "SI",
+    "zone": "Europe/Ljubljana",
+    "population": 284961,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Honiara",
+    "country": "Solomon Islands",
+    "countryCode": "SB",
+    "zone": "Pacific/Guadalcanal",
+    "population": 66313,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Mogadishu",
+    "country": "Somalia",
+    "countryCode": "SO",
+    "zone": "Africa/Mogadishu",
+    "population": 987694,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Benoni",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "zone": "Africa/Johannesburg",
+    "population": 1795672,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Cape Town",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "zone": "Africa/Johannesburg",
+    "population": 2823929,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Durban",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "zone": "Africa/Johannesburg",
+    "population": 2729000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "zone": "Africa/Johannesburg",
+    "population": 2730734.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Pietermaritzburg",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "zone": "Africa/Johannesburg",
+    "population": 620898,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "zone": "Africa/Johannesburg",
+    "population": 830527,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Pretoria",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "zone": "Africa/Johannesburg",
+    "population": 1338000,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Vereeniging",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "zone": "Africa/Johannesburg",
+    "population": 774340.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ansan",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "zone": "Asia/Seoul",
+    "population": 695110.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Busan",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "zone": "Asia/Seoul",
+    "population": 3480000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Changwon",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "zone": "Asia/Seoul",
+    "population": 1081499,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Cheongju",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "zone": "Asia/Seoul",
+    "population": 719420.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Daegu",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "zone": "Asia/Seoul",
+    "population": 2460000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Daejeon",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "zone": "Asia/Seoul",
+    "population": 1458165,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Goyang",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "zone": "Asia/Seoul",
+    "population": 903000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Gwangju",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "zone": "Asia/Seoul",
+    "population": 1428469,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Incheon",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "zone": "Asia/Seoul",
+    "population": 2550000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jeonju",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "zone": "Asia/Seoul",
+    "population": 679948.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Puch'on",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "zone": "Asia/Seoul",
+    "population": 866000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Seoul",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "zone": "Asia/Seoul",
+    "population": 9796000,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Songnam",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "zone": "Asia/Seoul",
+    "population": 986967.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Suwon",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "zone": "Asia/Seoul",
+    "population": 1078000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ulsan",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "zone": "Asia/Seoul",
+    "population": 1011932.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Juba",
+    "country": "South Sudan",
+    "countryCode": "SS",
+    "zone": "Africa/Juba",
+    "population": 111975,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Barcelona",
+    "country": "Spain",
+    "countryCode": "ES",
+    "zone": "Europe/Madrid",
+    "population": 3250797.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bilbao",
+    "country": "Spain",
+    "countryCode": "ES",
+    "zone": "Europe/Madrid",
+    "population": 614369.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Madrid",
+    "country": "Spain",
+    "countryCode": "ES",
+    "zone": "Europe/Madrid",
+    "population": 2808718.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Malaga",
+    "country": "Spain",
+    "countryCode": "ES",
+    "zone": "Europe/Madrid",
+    "population": 539381.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Seville",
+    "country": "Spain",
+    "countryCode": "ES",
+    "zone": "Europe/Madrid",
+    "population": 957533,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Valencia",
+    "country": "Spain",
+    "countryCode": "ES",
+    "zone": "Europe/Madrid",
+    "population": 806652,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Zaragoza",
+    "country": "Spain",
+    "countryCode": "ES",
+    "zone": "Europe/Madrid",
+    "population": 548955.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Colombo, Sri Jayawardenepura Kotte",
+    "country": "Sri Lanka",
+    "countryCode": "LK",
+    "zone": "Asia/Colombo",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Khartoum",
+    "country": "Sudan",
+    "countryCode": "SD",
+    "zone": "Africa/Khartoum",
+    "population": 3364323.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Khartum",
+    "country": "Sudan",
+    "countryCode": "SD",
+    "zone": "Africa/Khartoum",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Omdurman",
+    "country": "Sudan",
+    "countryCode": "SD",
+    "zone": "Africa/Khartoum",
+    "population": 2289428.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Paramaribo",
+    "country": "Suriname",
+    "countryCode": "SR",
+    "zone": "America/Paramaribo",
+    "population": 238963,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Göteborg",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "zone": "Europe/Stockholm",
+    "population": 520940.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "countryCode": "SE",
+    "zone": "Europe/Stockholm",
+    "population": 1258654.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Basel",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "zone": "Europe/Zurich",
+    "population": 500317.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bern",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "zone": "Europe/Zurich",
+    "population": 198480,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Geneva",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "zone": "Europe/Zurich",
+    "population": 716192.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Zürich",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "zone": "Europe/Zurich",
+    "population": 724865,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Aleppo",
+    "country": "Syria",
+    "countryCode": "SY",
+    "zone": "Asia/Damascus",
+    "population": 2170132,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Damascus",
+    "country": "Syria",
+    "countryCode": "SY",
+    "zone": "Asia/Damascus",
+    "population": 2466000,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Hims",
+    "country": "Syria",
+    "countryCode": "SY",
+    "zone": "Asia/Damascus",
+    "population": 890202,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hsinchu",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "zone": "Asia/Taipei",
+    "population": 582778.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kaohsiung",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "zone": "Asia/Taipei",
+    "population": 2144391.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "New Taipei",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "zone": "Asia/Taipei",
+    "population": 2821870,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Taichung",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "zone": "Asia/Taipei",
+    "population": 1835024,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tainan",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "zone": "Asia/Taipei",
+    "population": 1319156,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Taipei",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "zone": "Asia/Taipei",
+    "population": 4759522.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Zhongli",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "zone": "Asia/Taipei",
+    "population": 1001193,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Dushanbe",
+    "country": "Tajikistan",
+    "countryCode": "TJ",
+    "zone": "Asia/Dushanbe",
+    "population": 882822,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "countryCode": "TZ",
+    "zone": "Africa/Dar_es_Salaam",
+    "population": 2814326,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Dodoma",
+    "country": "Tanzania",
+    "countryCode": "TZ",
+    "zone": "Africa/Dar_es_Salaam",
+    "population": 199405,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "zone": "Asia/Bangkok",
+    "population": 5904238,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Dili",
+    "country": "Timor-Leste",
+    "countryCode": "TL",
+    "zone": "Asia/Dili",
+    "population": 213947,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Lomé",
+    "country": "Togo",
+    "countryCode": "TG",
+    "zone": "Africa/Lome",
+    "population": 1100850,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Nuku'alofa",
+    "country": "Tonga",
+    "countryCode": "TO",
+    "zone": "Pacific/Tongatapu",
+    "population": 33139,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Port-of-Spain",
+    "country": "Trinidad and Tobago",
+    "countryCode": "TT",
+    "zone": "America/Port_of_Spain",
+    "population": 171982.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Tunis",
+    "country": "Tunisia",
+    "countryCode": "TN",
+    "zone": "Africa/Tunis",
+    "population": 1570476.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Adana",
+    "country": "Turkey",
+    "countryCode": "TR",
+    "zone": "Europe/Istanbul",
+    "population": 1245445,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Antalya",
+    "country": "Turkey",
+    "countryCode": "TR",
+    "zone": "Europe/Istanbul",
+    "population": 703468.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bursa",
+    "country": "Turkey",
+    "countryCode": "TR",
+    "zone": "Europe/Istanbul",
+    "population": 1425544.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Diyarbakir",
+    "country": "Turkey",
+    "countryCode": "TR",
+    "zone": "Europe/Istanbul",
+    "population": 640586.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Gaziantep",
+    "country": "Turkey",
+    "countryCode": "TR",
+    "zone": "Europe/Istanbul",
+    "population": 943262,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Icel",
+    "country": "Turkey",
+    "countryCode": "TR",
+    "zone": "Europe/Istanbul",
+    "population": 577416,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "countryCode": "TR",
+    "zone": "Europe/Istanbul",
+    "population": 10003305,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Izmir",
+    "country": "Turkey",
+    "countryCode": "TR",
+    "zone": "Europe/Istanbul",
+    "population": 2454909,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kayseri",
+    "country": "Turkey",
+    "countryCode": "TR",
+    "zone": "Europe/Istanbul",
+    "population": 562215.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Konya",
+    "country": "Turkey",
+    "countryCode": "TR",
+    "zone": "Europe/Istanbul",
+    "population": 718680,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Samsun",
+    "country": "Turkey",
+    "countryCode": "TR",
+    "zone": "Europe/Istanbul",
+    "population": 573722.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tarsus",
+    "country": "Turkey",
+    "countryCode": "TR",
+    "zone": "Europe/Istanbul",
+    "population": 566297,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ankara",
+    "country": "Türkiye",
+    "countryCode": "TR",
+    "zone": "Europe/Istanbul",
+    "population": 3511689.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Ashgabat",
+    "country": "Turkmenistan",
+    "countryCode": "TM",
+    "zone": "Asia/Ashgabat",
+    "population": 652841,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Funafuti",
+    "country": "Tuvalu",
+    "countryCode": "TV",
+    "zone": "Pacific/Funafuti",
+    "population": 4749,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Kampala",
+    "country": "Uganda",
+    "countryCode": "UG",
+    "zone": "Africa/Kampala",
+    "population": 1386594.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Dnipropetrovsk",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "zone": "Europe/Kyiv",
+    "population": 949424.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Donetsk",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "zone": "Europe/Kyiv",
+    "population": 874137.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "zone": "Europe/Kyiv",
+    "population": 1338063.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kryvyy Rih",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "zone": "Europe/Kyiv",
+    "population": 571643.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "zone": "Europe/Kyiv",
+    "population": 2185754,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Lvov",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "zone": "Europe/Kyiv",
+    "population": 760841.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Odessa",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "zone": "Europe/Kyiv",
+    "population": 847500.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Zaporizhzhya",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "zone": "Europe/Zaporozhye",
+    "population": 600778.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "countryCode": "AE",
+    "zone": "Asia/Dubai",
+    "population": 581861,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "countryCode": "AE",
+    "zone": "Asia/Dubai",
+    "population": 1258173.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "countryCode": "AE",
+    "zone": "Asia/Dubai",
+    "population": 952015.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "zone": "Europe/London",
+    "population": 1634666.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Cardiff",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "zone": "Europe/London",
+    "population": 603750,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "zone": "Europe/London",
+    "population": 885134,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Leeds",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "zone": "Europe/London",
+    "population": 992061.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "zone": "Europe/London",
+    "population": 639972.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "zone": "Europe/London",
+    "population": 7994104.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "zone": "Europe/London",
+    "population": 1312757.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Newcastle",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "zone": "Europe/London",
+    "population": 537191,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Nottingham",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "zone": "Europe/London",
+    "population": 565650,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Sheffield",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "zone": "Europe/London",
+    "population": 922800,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Washington",
+    "country": "United States",
+    "countryCode": "US",
+    "zone": "America/Adak",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Albuquerque",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Denver",
+    "population": 725723,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Arlington",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Chicago",
+    "population": 545107.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Atlanta",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 2464454,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Austin",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Chicago",
+    "population": 919684,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Baltimore",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 1432946,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Birmingham",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Chicago",
+    "population": 670142,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Boston",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 2528070.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bridgeport",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 578545,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Buffalo",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 647778.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Charlotte",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 943574.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Chicago",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Chicago",
+    "population": 5915976,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Cincinnati",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 971191,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Cleveland",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 1169757,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Columbus",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 1003418,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Dallas",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Chicago",
+    "population": 3004852,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Denver",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Denver",
+    "population": 1930799.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Detroit",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Detroit",
+    "population": 2526135,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "El Paso",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Denver",
+    "population": 658331,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Fort Lauderdale",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 1103781.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Fresno",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Los_Angeles",
+    "population": 540768,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Ft. Worth",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Chicago",
+    "population": 1090830,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hartford",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 518509.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Honolulu",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "Pacific/Honolulu",
+    "population": 578828.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Houston",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Chicago",
+    "population": 4053287,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Indianapolis",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Indiana/Indianapolis",
+    "population": 1104641.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Irvine",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Los_Angeles",
+    "population": 1611303.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Jacksonville",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 904953.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Kansas City",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Chicago",
+    "population": 955272.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Las Vegas",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Los_Angeles",
+    "population": 1150717,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Long Beach",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Los_Angeles",
+    "population": 1249195.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Los Angeles",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Los_Angeles",
+    "population": 8097410,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Louisville",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Kentucky/Louisville",
+    "population": 595819.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Memphis",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Chicago",
+    "population": 753843.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Mesa",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Phoenix",
+    "population": 762217.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Miami",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 2983947,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Milwaukee",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Chicago",
+    "population": 983590,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Minneapolis",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Chicago",
+    "population": 1491886.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Nashville",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Chicago",
+    "population": 703926,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "New Haven",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 707883,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "New Orleans",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Chicago",
+    "population": 527428.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "New York",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 13524139,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Norfolk",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 645336,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Oakland",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Los_Angeles",
+    "population": 953044,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Oklahoma City",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Chicago",
+    "population": 660475,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Omaha",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Chicago",
+    "population": 643034,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Orlando",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 778985,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Philadelphia",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 3504775,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Phoenix",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Phoenix",
+    "population": 2436022.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Pittsburgh",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 1535267.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Portland",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Los_Angeles",
+    "population": 1207756.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Providence",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 663726.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Raleigh",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 789991.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Richmond",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 551443,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Sacramento",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Los_Angeles",
+    "population": 1035949,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Salt Lake City",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Denver",
+    "population": 572013,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "San Antonio",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Chicago",
+    "population": 1364905,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "San Bernardino",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Los_Angeles",
+    "population": 973690.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "San Diego",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Los_Angeles",
+    "population": 1938570.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "San Francisco",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Los_Angeles",
+    "population": 2091036,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "San Jose",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Los_Angeles",
+    "population": 1281471.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Seattle",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Los_Angeles",
+    "population": 1821684.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "St. Louis",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Chicago",
+    "population": 1259958,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "St. Paul",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Chicago",
+    "population": 509961,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "St. Petersburg",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 523314.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tampa",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 1319232.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tucson",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Phoenix",
+    "population": 670953.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tulsa",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/Chicago",
+    "population": 669434,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Virginia Beach",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 877475.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Washington, D.C.",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 2445216.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "West Palm Beach",
+    "country": "United States of America",
+    "countryCode": "US",
+    "zone": "America/New_York",
+    "population": 675521.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "countryCode": "UY",
+    "zone": "America/Montevideo",
+    "population": 759162,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Namangan",
+    "country": "Uzbekistan",
+    "countryCode": "UZ",
+    "zone": "Asia/Tashkent",
+    "population": 599600,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Samarqand",
+    "country": "Uzbekistan",
+    "countryCode": "UZ",
+    "zone": "Asia/Samarkand",
+    "population": 652150,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "countryCode": "UZ",
+    "zone": "Asia/Tashkent",
+    "population": 2081014,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Toskent",
+    "country": "Uzbekistan",
+    "countryCode": "UZ",
+    "zone": "Asia/Samarkand",
+    "population": 0,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Port-Vila",
+    "country": "Vanuatu",
+    "countryCode": "VU",
+    "zone": "Pacific/Efate",
+    "population": 39970.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Vatican City",
+    "country": "Vatican City",
+    "countryCode": "VA",
+    "zone": "Europe/Rome",
+    "population": 832,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Barquisimeto",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "zone": "America/Caracas",
+    "population": 962745,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Caracas",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "zone": "America/Caracas",
+    "population": 2400339.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Ciudad Guayana",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "zone": "America/Caracas",
+    "population": 634317.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "zone": "America/Caracas",
+    "population": 1764650,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Maracay",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "zone": "America/Caracas",
+    "population": 1007000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Puerto la Cruz",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "zone": "America/Caracas",
+    "population": 500464,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Valencia",
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "zone": "America/Caracas",
+    "population": 1569526.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Bien Hoa",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "zone": "Asia/Ho_Chi_Minh",
+    "population": 652646,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Can Tho",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "zone": "Asia/Ho_Chi_Minh",
+    "population": 690299,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "zone": "Asia/Ho_Chi_Minh",
+    "population": 943534.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Haiphong",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "zone": "Asia/Ho_Chi_Minh",
+    "population": 1285847.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "zone": "Asia/Ho_Chi_Minh",
+    "population": 2904635,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "zone": "Asia/Ho_Chi_Minh",
+    "population": 4390665.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Hue",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "zone": "Asia/Ho_Chi_Minh",
+    "population": 645000,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Qui Nhon",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "zone": "Asia/Ho_Chi_Minh",
+    "population": 543095,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Vinh",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "zone": "Asia/Ho_Chi_Minh",
+    "population": 514426.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Aden",
+    "country": "Yemen",
+    "countryCode": "YE",
+    "zone": "Asia/Aden",
+    "population": 775301,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Al Hudaydah",
+    "country": "Yemen",
+    "countryCode": "YE",
+    "zone": "Asia/Aden",
+    "population": 627610.5,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Sanaa",
+    "country": "Yemen",
+    "countryCode": "YE",
+    "zone": "Asia/Aden",
+    "population": 1921926.5,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Taizz",
+    "country": "Yemen",
+    "countryCode": "YE",
+    "zone": "Asia/Aden",
+    "population": 683111,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Lusaka",
+    "country": "Zambia",
+    "countryCode": "ZM",
+    "zone": "Africa/Lusaka",
+    "population": 1297720,
+    "major": true,
+    "capital": true
+  },
+  {
+    "city": "Bulawayo",
+    "country": "Zimbabwe",
+    "countryCode": "ZW",
+    "zone": "Africa/Harare",
+    "population": 697096,
+    "major": true,
+    "capital": false
+  },
+  {
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "countryCode": "ZW",
+    "zone": "Africa/Harare",
+    "population": 1557406.5,
+    "major": true,
+    "capital": true
+  }
+]
