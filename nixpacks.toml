@@ -8,3 +8,6 @@ cmds = ["npm ci"]
 
 [phases.build]
 cmds = ["npm run build"]
+
+[start]
+cmd = "echo 'Static export complete - Dokploy nginx serves out/'"
