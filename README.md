@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rexiumtech/.github/main/logo.png" width="72" alt="Rexiumtech" />
+  <img src="assets/banner.png" alt="Global Time Atlas — a Rexiumtech open-source tool" width="100%" />
 </p>
 
 # Global Time Atlas
