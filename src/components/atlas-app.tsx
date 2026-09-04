@@ -55,6 +55,9 @@ type Copy = {
   population: string;
   copyLink: string;
   copied: string;
+  rights: string;
+  footerHub: string;
+  footerContact: string;
 };
 
 type SavedState = {
@@ -146,6 +149,9 @@ const copy: Record<Language, Copy> = {
     population: "population 500k+",
     copyLink: "Copy link",
     copied: "Copied",
+    rights: "All rights reserved.",
+    footerHub: "Innovation Hub",
+    footerContact: "Contact",
   },
   es: {
     language: "EN",
@@ -184,6 +190,9 @@ const copy: Record<Language, Copy> = {
     population: "población de 500 mil+",
     copyLink: "Copiar enlace",
     copied: "Copiado",
+    rights: "Todos los derechos reservados.",
+    footerHub: "Hub de Innovación",
+    footerContact: "Contacto",
   },
 };
 
@@ -655,8 +664,14 @@ export default function AtlasApp() {
       </section>
 
       <footer>
-        <span>GLOBAL TIME ATLAS</span>
-        <span>{text.browserClock}</span>
+        <span>
+          © {now ? now.getFullYear() : new Date().getFullYear()} Rexiumtech. {text.rights}
+        </span>
+        <span className="footer-links">
+          <a href="https://rexiumtech.com/hub">{text.footerHub}</a>
+          <a href="https://rexiumtech.com/#contacto">{text.footerContact}</a>
+          <span>{text.browserClock}</span>
+        </span>
       </footer>
     </main>
   );
