@@ -86,4 +86,9 @@ Issues and pull requests are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
-Maintained by [Rexiumtech](https://rexiumtech.com) — technology solutions and managed services for Latin American businesses.
+## More from Rexiumtech
+
+- **[Innovation Hub](https://rexiumtech.com/hub)** — the full portfolio: AI-powered SaaS apps, service plans, and more open-source tools.
+- **[rexiumtech.com](https://rexiumtech.com)** — chatbot-powered websites and digital transformation for Latin American SMBs, live in days.
+
+Global Time Atlas is free and open source, forever. Maintained by [Rexiumtech](https://rexiumtech.com).
